@@ -57,7 +57,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="./assets/th 31).png"
+      src="./assets/foto2.jpg"
     />
     <p>&nbsp&nbsp&nbsp José Teodoro<br>
     &nbsp&nbsp&nbsp
@@ -67,7 +67,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.linkedin.com/in/jos%C3%A9-teodoro-51885649/">
+        href="https://www.linkedin.com/in/jos%C3%A9-teodoro08/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
@@ -82,4 +82,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [José Teodoro](https://github.com/https:/JTeodoro08)
+⌨️ com 💜 por [José Teodoro](https://github.com/JTeodoro08)
